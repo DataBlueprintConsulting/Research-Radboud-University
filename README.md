@@ -1,5 +1,3 @@
-It seems you’re sharing a screenshot, but I cannot view its contents directly. Let me provide you with the complete README in markdown format again to address your request properly without any truncation:
-
 # 📚 Data Analysis: Usage of Generative AI for Law Students
 
 This repository contains a Jupyter Notebook dedicated to analyzing how law students use Generative AI (GenAI) tools. The project aims to uncover trends, usage patterns, and potential applications of GenAI in legal education, providing actionable insights for educators, students, and developers.
